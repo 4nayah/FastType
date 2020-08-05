@@ -1,0 +1,2 @@
+# FastType
+Created with CodeSandbox
